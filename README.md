@@ -58,7 +58,7 @@ Sou Desenvolvedora Full-Stack com um background versátil. Além de dominar as s
 
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGIwZjFkOWQ5NmExNDIxODQ4YjRkNjFkNDQ4NjYxYzQ4ODQ2ODcxZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JIX9t2j0ZTN9S/giphy.gif" width="250px" />
   <br/>
   <sub>Obrigada pela visita! 💜</sub>
 </div>
