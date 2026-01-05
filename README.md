@@ -28,20 +28,18 @@ Sou Desenvolvedora de Software e estudante apaixonada por tecnologia. Meu foco p
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferchinik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferchinik&layout=compact&theme=dracula"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferchinik&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchinik&layout=compact&theme=dracula)
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+<a href="https:/www.linkedin.com/in/fernanda-chini" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href="mailto:SEU-EMAIL-AQUI@GMAIL.COM">
+<a href="mailto:fefe.c.k@hotmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
