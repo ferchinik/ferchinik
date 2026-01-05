@@ -1,5 +1,10 @@
 ### Olá, eu sou a Fernanda Chini! 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150px" />
+  <br/>
+</div>
+
 Sou Desenvolvedora Full-Stack com um background versátil. Além de dominar as stacks modernas de web, tenho experiência sólida na manutenção de sistemas legados e ERPs. Meu foco é entregar soluções seguras e escaláveis, seja refatorando código antigo ou criando microsserviços do zero.
 
 - 🔭 Atualmente trabalho com **Angular, Node.js e TypeScript**.
@@ -50,3 +55,10 @@ Sou Desenvolvedora Full-Stack com um background versátil. Além de dominar as s
 <a href="mailto:fefe.c.k@hotmail.com">
   <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
+
+<br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/Lqx1cReFkQd3a/giphy.gif" width="250px" />
+  <br/>
+  <sub>Obrigada pela visita! 💜</sub>
+</div>
