@@ -7,10 +7,10 @@
 
 Sou Desenvolvedora Full-Stack com um background versátil. Além de dominar as stacks modernas de web, tenho experiência sólida na manutenção de sistemas legados e ERPs. Meu foco é entregar soluções seguras e escaláveis, seja refatorando código antigo ou criando microsserviços do zero.
 
-- 🔭 Atualmente trabalho com **Angular, Node.js e TypeScript**.
-- 🌱 Estou aprofundando meus conhecimentos em **Cloud (AWS)** e **Segurança (Keycloak)**.
+- 🔭 Atualmente trabalho com **Angular**, **Node.js** e **Pascal**.
+- 🌱 Focada em estudos de **Cloud (AWS)** e **Segurança**.
 - 👯 Aberta a colaborações em projetos **Java Spring Boot** e **C#**.
-- 💬 Me pergunte sobre **Integração de Sistemas, SQL e Arquitetura**.
+- 💬 Me pergunte sobre **Desenvolvimento Web e Desktop**.
 
 ---
 
