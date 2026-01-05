@@ -1,7 +1,7 @@
 ### Olá, eu sou a Fernanda Chini! 👋
 
 <div align="center">
-  <img src="https://media.tenor.com/XLCkO1o-hL8AAAAi/naruto-run.gif" width="55px" />
+  <img src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif" width="100px" />
   <br/>
 </div>
 
@@ -58,7 +58,7 @@ Sou Desenvolvedora Full-Stack com um background versátil. Além de dominar as s
 
 <br/>
 <div align="center">
-  <img src="https://media.tenor.com/S-K-N6Tj94QAAAAi/lofi-girl-lofi.gif" width="250px" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px" />
   <br/>
   <sub>Obrigada pela visita! 💜</sub>
 </div>
